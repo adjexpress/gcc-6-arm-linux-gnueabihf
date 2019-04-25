@@ -8,6 +8,15 @@ I didnt not make this compiler. All credits are to @swampdog on Raspberry Pi for
 Use at your own risk. Neither I nor @swampdog are responsible for any bugs and/or damages.
 
 
+Instructions:
+
+combine the files:
+$ cat armv6-rpi-linux-gnueabihf.tar.xz.parta* > armv6-rpi-linux-gnueabihf.tar.xz
+
+then unzip them. 
+
+
+
 LISENCE:
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
