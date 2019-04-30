@@ -13,7 +13,17 @@ Instructions:
 combine the files:
 $ cat armv6-rpi-linux-gnueabihf.tar.xz.parta* > armv6-rpi-linux-gnueabihf.tar.xz
 
-then unzip them. 
+then unzip them:
+$ tar xvJf armv6-rpi-linux-gnueabihf.tar.xz
+
+
+
+
+
+
+
+
+
 
 
 
